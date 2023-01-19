@@ -14,7 +14,7 @@ Project source: https://www.theodinproject.com/lessons/foundations-landing-page
 
 Listed below are the URLs for the images used in the project:
 
-* Image with a lot of dishes: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bostonmagazine.com%2Fbest-restaurants-in-boston%2F&psig=AOvVaw1jBZvqC1em-ffRSszltXen&ust=1672392850409000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNChs4DDnvwCFQAAAAAdAAAAABAD
+* Image with a lot of dishes: https://s.yimg.com/ny/api/res/1.2/fF_B7qsGyQR2DwlxESC.2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ4MA--/https://media.zenfs.com/en/exec_edge_220/5420e5c535d94b8bc3060119826481cf
 
 * Korean food: https://www.google.com/url?sa=i&url=https%3A%2F%2Ffoursquare.com%2Fv%2Fgopchang-story%2F5ca7f945121384002c0bd9e3%2Fphotos&psig=AOvVaw3i-qyfaxGTaMPc4MFmLHpj&ust=1672392830728000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOjli_fCnvwCFQAAAAAdAAAAABAD
 
