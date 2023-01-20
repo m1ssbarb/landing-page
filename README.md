@@ -16,10 +16,10 @@ Listed below are the URLs for the images used in the project:
 
 * Image with a lot of dishes: https://s.yimg.com/ny/api/res/1.2/fF_B7qsGyQR2DwlxESC.2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ4MA--/https://media.zenfs.com/en/exec_edge_220/5420e5c535d94b8bc3060119826481cf
 
-* Korean food: https://www.google.com/url?sa=i&url=https%3A%2F%2Ffoursquare.com%2Fv%2Fgopchang-story%2F5ca7f945121384002c0bd9e3%2Fphotos&psig=AOvVaw3i-qyfaxGTaMPc4MFmLHpj&ust=1672392830728000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOjli_fCnvwCFQAAAAAdAAAAABAD
+* Korean food: https://foursquare.com/v/gopchang-story/5ca7f945121384002c0bd9e3/photos
 
-* Brazilian food: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thrillist.com%2Fvenue%2Feat%2Fboston%2Frestaurants%2Fmuqueca-restaurant&psig=AOvVaw2Yu2cZaIemDk7J3Jx0mkP4&ust=1672392807836000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDAh-zCnvwCFQAAAAAdAAAAABAD
+* Brazilian food: https://www.thrillist.com/venue/eat/boston/restaurants/muqueca-restaurant
 
-* Vegan food: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.greenqueen.com.hk%2Fnestle-commits-to-plant-based-innovation-as-vegan-food-becomes-mainstream%2F&psig=AOvVaw0hlFJR9Plz531u7ysDHc-f&ust=1672392770665000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCID0sdrCnvwCFQAAAAAdAAAAABAD
+* Vegan food: https://www.greenqueen.com.hk/nestle-commits-to-plant-based-innovation-as-vegan-food-becomes-mainstream/
 
-* Dessert: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripadvisor.com%2FRestaurant_Review-g60763-d10641121-Reviews-Taiyaki_NYC-New_York_City_New_York.html&psig=AOvVaw1eIzPTuRQa6mutaF4-n3qt&ust=1672392637619000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDGmKLCnvwCFQAAAAAdAAAAABBI
+* Dessert: https://www.tripadvisor.com/Restaurant_Review-g60763-d10641121-Reviews-Taiyaki_NYC-New_York_City_New_York.html
